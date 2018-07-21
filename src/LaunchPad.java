@@ -7,7 +7,21 @@ public class LaunchPad {
 
     public static void main(String[] args) {
       //call methods here
-      reverseStringByWord("Run around town trying to find a job and then God blesses");
+      //get used to using "control + r" to run, NOTE: the hot key to run a test is diff
+    }
+
+    public static void fibonacciNumbers(){
+      //This is where every third number is the sum of the first two
+      int a = 0;
+      int b = 0;
+      int c = 1;
+
+      for(int i = 1; i < 20; i++){
+        a = b;
+        b = c;
+        c = a + b;
+        System.out.println(a);
+      }
     }
 
     public static void reverseStringByWord(String originalString){
