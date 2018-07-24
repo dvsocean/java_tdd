@@ -1,5 +1,6 @@
 import java.util.Arrays;
 import java.util.Collections;
+import java.util.InputMismatchException;
 import java.util.List;
 import java.util.Scanner;
 
@@ -7,7 +8,7 @@ public class LaunchPad {
 
     public static void main(String[] args) {
       //call methods here
-      //get used to using "control + r" to run, NOTE: the hot key to run a test is diff
+      //get used to using "control + r" to run
     }
 
     public static void fibonacciNumbers(){
@@ -58,31 +59,66 @@ public class LaunchPad {
       }
     }
 
-    public static void acceptNumericInputFromConsoleAndReverse(){
+    public static void acceptSringInputFromConsoleAndReverse(){
       //Scanner class is responsible for accepting input from user
       Scanner sc = new Scanner(System.in);
       System.out.println("Specify the array size");
 
-      //user sets size of array
-      int testArray[] = new int[sc.nextInt()];
+      int size = sc.nextInt();
 
+      //user sets size of array
+      String[] testArray = new String[size];
+
+      System.out.println("Array size: " + testArray.length);
       //user gives elements
       System.out.println("Now, give java the elements");
+      //sc.nextLine();
       for(int k = 0; k < testArray.length; k++){
         //quick type check
-        if(!sc.hasNextInt()){
-          System.out.println("Only numbers are accepted! Start over");
-        } else {
-          testArray[k] = sc.nextInt();
+        try {
+          testArray[k] = sc.next();
+        } catch (InputMismatchException e) {
+          System.out.println("Only strings are accepted! Start over");
         }
       }
-
       //print out each element starting from end of array
       System.out.println("Here is your array..REVERSED");
       for(int i = testArray.length -1; i >= 0; i--){
         System.out.println("\n" + testArray[i]);
       }
     }
+
+  public static void acceptNumericInputFromConsoleAndReverse(){
+    //Scanner class is responsible for accepting input from user
+    Scanner sc = new Scanner(System.in);
+    System.out.println("Specify the array size");
+
+    int size = sc.nextInt();
+
+    //user sets size of array
+    int[] testArray = new int[size];
+
+    System.out.println("Array size: " + testArray.length);
+    //user gives elements
+    System.out.println("Now, give java the elements");
+    //sc.nextLine();
+    for(int k = 0; k < testArray.length; k++){
+      //quick type check
+      try {
+        testArray[k] = sc.nextInt();
+      } catch (InputMismatchException e) {
+        System.out.println("Only numbers are accepted! Start over");
+      }
+    }
+    //print out each element starting from end of array
+    System.out.println("Here is your array..REVERSED");
+    for(int i = testArray.length -1; i >= 0; i--){
+      System.out.println("\n" + testArray[i]);
+    }
+  }
+
+
+
 
     public static void reverseStringSimpleVersion(){
       String[] arrayList = new String[]{"joe", "John", "Harry", "Steve"};
