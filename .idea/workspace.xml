@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bafa6c4b-87c2-4e58-8ecb-92fa8068f7d8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/wednesday/AcquisitionGateway.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/wednesday/SquareMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/wednesday/acquisitiongateway/Authorization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/wednesday/acquisitiongateway/Page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/wednesday/acquisitiongateway/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/wednesday/acquisitiongateway/ShoppingCatalog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/wednesday/acquisitiongateway/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/wednesday/AcquisitionGatewayTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/wednesday/ParkingLotTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/wednesday/ParkingLotTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/wednesday/OceanSquareMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/wednesday/SquareMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/wednesday/SquareMatrix.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,11 +29,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SquareMatrix.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SquareMatrix.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/wednesday/SquareMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+            <state relative-caret-position="135">
+              <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OceanSquareMatrix.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/wednesday/OceanSquareMatrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -95,6 +96,7 @@
         <option value="$PROJECT_DIR$/src/test/java/wednesday/AcquisitionGatewayTests.java" />
         <option value="$PROJECT_DIR$/src/main/java/wednesday/acquisitiongateway/ShoppingCatalog.java" />
         <option value="$PROJECT_DIR$/src/main/java/wednesday/SquareMatrix.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wednesday/OceanSquareMatrix.java" />
       </list>
     </option>
   </component>
@@ -150,23 +152,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tuesday" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wednesday" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tuesday" type="462c0819:PsiDirectoryNode" />
-              <item name="TuesdayTdd" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wednesday" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="wednesday" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -176,66 +161,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="wednesday" type="462c0819:PsiDirectoryNode" />
-              <item name="acquisitiongateway" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wednesday" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wednesday" type="462c0819:PsiDirectoryNode" />
-              <item name="acquisitiongateway" type="462c0819:PsiDirectoryNode" />
-              <item name="Authorization" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wednesday" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wednesday" type="462c0819:PsiDirectoryNode" />
-              <item name="acquisitiongateway" type="462c0819:PsiDirectoryNode" />
-              <item name="Page" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wednesday" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wednesday" type="462c0819:PsiDirectoryNode" />
-              <item name="acquisitiongateway" type="462c0819:PsiDirectoryNode" />
-              <item name="Product" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wednesday" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wednesday" type="462c0819:PsiDirectoryNode" />
-              <item name="acquisitiongateway" type="462c0819:PsiDirectoryNode" />
-              <item name="ShoppingCatalog" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wednesday" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wednesday" type="462c0819:PsiDirectoryNode" />
-              <item name="acquisitiongateway" type="462c0819:PsiDirectoryNode" />
-              <item name="User" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wednesday" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wednesday" type="462c0819:PsiDirectoryNode" />
-              <item name="AcquisitionGateway" type="1a9f42e2:ClassTreeNode" />
+              <item name="OceanSquareMatrix" type="1a9f42e2:ClassTreeNode" />
             </path>
             <path>
               <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
@@ -250,15 +176,6 @@
               <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
               <item name="wednesday" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wednesday" type="462c0819:PsiDirectoryNode" />
-              <item name="WednesdayTdd" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wednesday" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -275,15 +192,6 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="wednesday" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wednesday" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wednesday" type="462c0819:PsiDirectoryNode" />
-              <item name="AcquisitionGatewayTests" type="1a9f42e2:ClassTreeNode" />
             </path>
             <path>
               <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
@@ -325,9 +233,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AcquisitionGatewayTests">
+  <component name="RunManager" selected="Application.OceanSquareMatrix">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="OceanSquareMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wednesday.OceanSquareMatrix" />
+      <module name="tdd" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wednesday.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="SquareMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="wednesday.SquareMatrix" />
@@ -444,11 +363,13 @@
       <item itemvalue="JUnit.ParkingLotTest" />
       <item itemvalue="Application.SquareMatrix" />
       <item itemvalue="JUnit.AcquisitionGatewayTests" />
+      <item itemvalue="Application.OceanSquareMatrix" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AcquisitionGatewayTests" />
+        <item itemvalue="Application.OceanSquareMatrix" />
         <item itemvalue="Application.SquareMatrix" />
+        <item itemvalue="JUnit.AcquisitionGatewayTests" />
         <item itemvalue="JUnit.ParkingLotTest" />
       </list>
     </recent_temporary>
@@ -510,12 +431,12 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39051604" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.39051604" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24391988" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24391988" />
       <window_info anchor="right" id="AdbCommander" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32914925" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -676,6 +597,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wednesday/SquareMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/wednesday/ParkingLotTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1125">
@@ -688,10 +616,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/wednesday/SquareMatrix.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/wednesday/OceanSquareMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+        <state relative-caret-position="150">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
         </state>
       </provider>
     </entry>
