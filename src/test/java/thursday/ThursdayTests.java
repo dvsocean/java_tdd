@@ -17,7 +17,7 @@ public class ThursdayTests {
 
 
   @Test
-  public void addressBookShouldHold100Users(){
+  public void addressBookShouldHoldMax100Users(){
     for (int i = 0; i < 100; i++) {
       thursday.addContact("John");
     }
@@ -31,6 +31,7 @@ public class ThursdayTests {
     }
     assertTrue(thursday.isError());
   }
+
 
   @Test
   public void shouldBeAbleToAddContact(){

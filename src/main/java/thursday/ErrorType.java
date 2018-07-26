@@ -1,5 +1,5 @@
 package thursday;
 
-public enum ErrorValue {
+public enum ErrorType {
   TOO_MANY_CONTACTS
 }
