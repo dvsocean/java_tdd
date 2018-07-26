@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bafa6c4b-87c2-4e58-8ecb-92fa8068f7d8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/thursday/ThursdayTdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/thursday/ThursdayTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thursday/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thursday/ErrorValue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/LaunchPad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LaunchPad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/wednesday/AcquisitionGateway.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/wednesday/AcquisitionGateway.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/wednesday/OceanSquareMatrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/wednesday/SquareMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/wednesday/SquareMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thursday/ThursdayTdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thursday/ThursdayTdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thursday/ThursdayTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/thursday/ThursdayTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LaunchPad.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LaunchPad.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/wednesday/AcquisitionGateway.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/wednesday/AcquisitionGateway.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/wednesday/OceanSquareMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/wednesday/SquareMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/wednesday/SquareMatrix.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,29 +23,65 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ThursdayTdd.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/thursday/ThursdayTdd.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="254">
+              <caret line="61" column="3" lean-forward="true" selection-start-line="61" selection-start-column="3" selection-end-line="61" selection-end-column="3" />
+              <folding>
+                <element signature="e#133#143#0" expanded="true" />
+                <element signature="e#1103#1104#0" expanded="true" />
+                <element signature="e#1121#1122#0" expanded="true" />
+                <element signature="e#1177#1178#0" expanded="true" />
+                <element signature="e#1206#1207#0" expanded="true" />
+                <element signature="e#1264#1265#0" expanded="true" />
+                <element signature="e#1284#1285#0" expanded="true" />
+                <element signature="e#1273#1274#0" expanded="true" />
+                <element signature="e#1293#1294#0" expanded="true" />
+                <element signature="e#1450#1451#0" expanded="true" />
+                <element signature="e#1483#1484#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="ThursdayTests.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/thursday/ThursdayTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="203">
+              <caret line="31" column="30" lean-forward="true" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#201#202#0" expanded="true" />
+                <element signature="e#239#240#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ThursdayTdd.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/thursday/ThursdayTdd.java">
+      <file leaf-file-name="ErrorValue.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/thursday/ErrorValue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="45">
+              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LaunchPad.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/LaunchPad.java">
+      <file leaf-file-name="Contact.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/thursday/Contact.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+            <state relative-caret-position="270">
+              <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+              <folding>
+                <element signature="e#93#94#0" expanded="true" />
+                <element signature="e#114#115#0" expanded="true" />
+                <element signature="e#116#117#0" expanded="true" />
+                <element signature="e#142#143#0" expanded="true" />
+                <element signature="e#217#218#0" expanded="true" />
+                <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#317#318#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -53,6 +92,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -94,12 +134,15 @@
         <option value="$PROJECT_DIR$/src/main/java/wednesday/acquisitiongateway/User.java" />
         <option value="$PROJECT_DIR$/src/test/java/wednesday/AcquisitionGatewayTests.java" />
         <option value="$PROJECT_DIR$/src/main/java/wednesday/acquisitiongateway/ShoppingCatalog.java" />
-        <option value="$PROJECT_DIR$/src/test/java/thursday/ThursdayTests.java" />
-        <option value="$PROJECT_DIR$/src/main/java/thursday/ThursdayTdd.java" />
         <option value="$PROJECT_DIR$/src/main/java/wednesday/AcquisitionGateway.java" />
         <option value="$PROJECT_DIR$/src/main/java/wednesday/OceanSquareMatrix.java" />
         <option value="$PROJECT_DIR$/src/main/java/wednesday/SquareMatrix.java" />
         <option value="$PROJECT_DIR$/src/main/java/LaunchPad.java" />
+        <option value="$PROJECT_DIR$/src/main/java/thursday/Contacts.java" />
+        <option value="$PROJECT_DIR$/src/main/java/thursday/Contact.java" />
+        <option value="$PROJECT_DIR$/src/main/java/thursday/ErrorValue.java" />
+        <option value="$PROJECT_DIR$/src/test/java/thursday/ThursdayTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/thursday/ThursdayTdd.java" />
       </list>
     </option>
   </component>
@@ -112,8 +155,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1480" />
-    <option name="y" value="203" />
+    <option name="x" value="1521" />
+    <option name="y" value="183" />
     <option name="width" value="1440" />
     <option name="height" value="835" />
   </component>
@@ -164,6 +207,33 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="thursday" type="462c0819:PsiDirectoryNode" />
+              <item name="Contact" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wednesday" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="thursday" type="462c0819:PsiDirectoryNode" />
+              <item name="ErrorValue" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wednesday" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="thursday" type="462c0819:PsiDirectoryNode" />
+              <item name="ThursdayTdd" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wednesday" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="LaunchPad" type="1a9f42e2:ClassTreeNode" />
             </path>
             <path>
@@ -187,6 +257,15 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="thursday" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wednesday" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="thursday" type="462c0819:PsiDirectoryNode" />
+              <item name="ThursdayTests" type="1a9f42e2:ClassTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -203,6 +282,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="thursday" />
       <recent name="wednesday.acquisitiongateway" />
     </key>
   </component>
@@ -218,9 +298,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OceanSquareMatrix">
+  <component name="RunManager" selected="JUnit.ThursdayTests">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="LaunchPad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LaunchPad" />
+      <module name="tdd" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="OceanSquareMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="wednesday.OceanSquareMatrix" />
@@ -270,18 +355,18 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="ParkingLotTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ThursdayTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tdd" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="wednesday.*" />
+          <option name="PATTERN" value="thursday.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="wednesday" />
-      <option name="MAIN_CLASS_NAME" value="wednesday.ParkingLotTest" />
+      <option name="PACKAGE_NAME" value="thursday" />
+      <option name="MAIN_CLASS_NAME" value="thursday.ThursdayTests" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -345,17 +430,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list>
-      <item itemvalue="JUnit.ParkingLotTest" />
       <item itemvalue="Application.SquareMatrix" />
       <item itemvalue="JUnit.AcquisitionGatewayTests" />
       <item itemvalue="Application.OceanSquareMatrix" />
+      <item itemvalue="Application.LaunchPad" />
+      <item itemvalue="JUnit.ThursdayTests" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ThursdayTests" />
+        <item itemvalue="Application.LaunchPad" />
         <item itemvalue="Application.OceanSquareMatrix" />
         <item itemvalue="Application.SquareMatrix" />
         <item itemvalue="JUnit.AcquisitionGatewayTests" />
-        <item itemvalue="JUnit.ParkingLotTest" />
       </list>
     </recent_temporary>
   </component>
@@ -373,54 +460,55 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AcquisitionGatewayTests - 2018.07.25 at 15h 08m 05s.xml">
-      <configuration name="AcquisitionGatewayTests" configurationId="JUnit" />
+    <history-entry file="ThursdayTests - 2018.07.26 at 09h 48m 39s.xml">
+      <configuration name="ThursdayTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AcquisitionGatewayTests - 2018.07.25 at 15h 10m 00s.xml">
-      <configuration name="AcquisitionGatewayTests" configurationId="JUnit" />
+    <history-entry file="ThursdayTests - 2018.07.26 at 09h 49m 23s.xml">
+      <configuration name="ThursdayTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AcquisitionGatewayTests - 2018.07.25 at 15h 10m 15s.xml">
-      <configuration name="AcquisitionGatewayTests" configurationId="JUnit" />
+    <history-entry file="ThursdayTests - 2018.07.26 at 09h 50m 01s.xml">
+      <configuration name="ThursdayTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AcquisitionGatewayTests - 2018.07.25 at 15h 11m 04s.xml">
-      <configuration name="AcquisitionGatewayTests" configurationId="JUnit" />
+    <history-entry file="ThursdayTests - 2018.07.26 at 09h 50m 09s.xml">
+      <configuration name="ThursdayTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AcquisitionGatewayTests - 2018.07.25 at 15h 12m 52s.xml">
-      <configuration name="AcquisitionGatewayTests" configurationId="JUnit" />
+    <history-entry file="ThursdayTests - 2018.07.26 at 09h 53m 07s.xml">
+      <configuration name="ThursdayTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AcquisitionGatewayTests - 2018.07.25 at 15h 13m 32s.xml">
-      <configuration name="AcquisitionGatewayTests" configurationId="JUnit" />
+    <history-entry file="ThursdayTests - 2018.07.26 at 09h 53m 42s.xml">
+      <configuration name="ThursdayTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AcquisitionGatewayTests - 2018.07.25 at 15h 15m 04s.xml">
-      <configuration name="AcquisitionGatewayTests" configurationId="JUnit" />
+    <history-entry file="ThursdayTests - 2018.07.26 at 09h 53m 54s.xml">
+      <configuration name="ThursdayTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AcquisitionGatewayTests - 2018.07.25 at 15h 17m 15s.xml">
-      <configuration name="AcquisitionGatewayTests" configurationId="JUnit" />
+    <history-entry file="ThursdayTests - 2018.07.26 at 09h 54m 38s.xml">
+      <configuration name="ThursdayTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AcquisitionGatewayTests - 2018.07.25 at 15h 18m 10s.xml">
-      <configuration name="AcquisitionGatewayTests" configurationId="JUnit" />
+    <history-entry file="ThursdayTests - 2018.07.26 at 09h 54m 49s.xml">
+      <configuration name="ThursdayTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AcquisitionGatewayTests - 2018.07.25 at 15h 19m 21s.xml">
-      <configuration name="AcquisitionGatewayTests" configurationId="JUnit" />
+    <history-entry file="ThursdayTests - 2018.07.26 at 09h 59m 15s.xml">
+      <configuration name="ThursdayTests" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1480" y="203" width="1440" height="835" extended-state="0" />
+    <frame x="1521" y="183" width="1440" height="835" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32867134" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.39051604" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3902098" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24749643" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24749643" />
       <window_info anchor="right" id="AdbCommander" order="3" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -434,7 +522,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32914925" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32914925" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="0" />
@@ -621,13 +708,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/thursday/ThursdayTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/wednesday/OceanSquareMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -635,17 +715,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/thursday/ThursdayTdd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/LaunchPad.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thursday/Contact.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+          <folding>
+            <element signature="e#93#94#0" expanded="true" />
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thursday/ErrorValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/thursday/ThursdayTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="31" column="30" lean-forward="true" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thursday/ThursdayTdd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="61" column="3" lean-forward="true" selection-start-line="61" selection-start-column="3" selection-end-line="61" selection-end-column="3" />
+          <folding>
+            <element signature="e#133#143#0" expanded="true" />
+            <element signature="e#1103#1104#0" expanded="true" />
+            <element signature="e#1121#1122#0" expanded="true" />
+            <element signature="e#1177#1178#0" expanded="true" />
+            <element signature="e#1206#1207#0" expanded="true" />
+            <element signature="e#1264#1265#0" expanded="true" />
+            <element signature="e#1284#1285#0" expanded="true" />
+            <element signature="e#1273#1274#0" expanded="true" />
+            <element signature="e#1293#1294#0" expanded="true" />
+            <element signature="e#1450#1451#0" expanded="true" />
+            <element signature="e#1483#1484#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
