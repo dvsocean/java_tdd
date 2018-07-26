@@ -15,10 +15,6 @@ public class AcquisitionGateway {
   •able to select a product(s) to bid on
    */
 
-  public static void main(String[] args) {
-
-  }
-
   public Authorization getAuth() {
     return new Authorization();
   }
