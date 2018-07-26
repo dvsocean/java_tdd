@@ -6,12 +6,12 @@ public class Tad {
   public String[] reverseAnArray(){
     String[] myArray = new String[]{"Jordana", "Julie", "Allison", "Sara", "Alena"};
 
-    //original
+    //orig
     for(String s: myArray) {
       System.out.println("Original --> " + s);
     }
 
-    //Reversed
+    //reversed
     for (int i = 0; i < myArray.length -1; i++) {
       String temp = myArray[i];
       myArray[i] = myArray[myArray.length - i - 1];
